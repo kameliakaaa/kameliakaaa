@@ -2,7 +2,7 @@
 - 👀 I’m interested in design and research
 - 🌱 I’m currently learning user experience design
 - 💞️ I’m looking to collaborate on a team
-- 📫 How to reach me via my LinkedIn or email
+- 📫you can reach me via my LinkedIn or email
 
 <!---
 kameliakaaa/kameliakaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
